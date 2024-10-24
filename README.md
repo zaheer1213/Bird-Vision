@@ -14,7 +14,7 @@ You need to have the following installed on your machine:
 
    Run the following command to clone the repository to your local machine:
 
-   git clone https://github.com/your-username/your-repository.git <br/>
+   git clone https://github.com/zaheer1213/Bird-Vision.git <br/>
    
    cd Bird-Vision  <br/>
    
